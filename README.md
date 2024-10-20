@@ -28,3 +28,20 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
  - Cabin: Cabin number (if available).
  - Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
  - Survived: Target variable (0 = Did not survive, 1 = Survived).
+
+#### Key Learning Outcomes
+This project helped me understand:
+
+ - The fundamentals of data preprocessing and feature engineering.
+ - How to work with imbalanced datasets where the target variable distribution is skewed.
+ - Various classification algorithms and how to evaluate their performance.
+ - The importance of hyperparameter tuning to boost model accuracy.
+ - End-to-end machine learning workflow from data collection to model deployment.
+
+#### Technologies Used
+ - Python: The primary language used.
+ - Pandas: For data manipulation and analysis.
+ - NumPy: For numerical computations.
+ - Scikit-Learn: For implementing machine learning models.
+ - Matplotlib & Seaborn: For data visualization.
+ - XGBoost: For advanced gradient boosting.
